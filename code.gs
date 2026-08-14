@@ -230,9 +230,9 @@ function configureInitialPodcast() {
   setCoverArt("1i_ffMj_I9R_kc7D2WvePEy92-8NVXe4k");
 
   addEpisode(
-    "Turning TSI Sensors into Predictive AI Networks",
-    "How connected TSI sensor data can become the foundation for predictive AI networks, enabling earlier detection, smarter decisions, and proactive operational insight.",
-    "1LooPCidLnMh4hWESmaYCjVr1DcZOEPPE",
+    "Episode Title",
+    "Episode Description",
+    "AUDIO_FILE_ID",
     "00:48:06"
   );
 }
